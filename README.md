@@ -1,3 +1,4 @@
+🎵 Spotify Clone
 A full-stack Spotify clone built using React, MongoDB, and Express to provide a seamless music streaming experience.
 
 🚀 Features
